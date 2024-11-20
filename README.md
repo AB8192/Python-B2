@@ -1,2 +1,2 @@
-# Python-B2
-Python Notes
+# pythonNotes
+notes taken during lecture
